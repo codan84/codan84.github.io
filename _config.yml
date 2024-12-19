@@ -42,4 +42,3 @@ defaults:
       path: ""
     values:
       hero_image: "/assets/tec-bg.jpg"
-      hero_height: ""
