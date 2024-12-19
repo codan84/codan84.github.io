@@ -33,3 +33,13 @@ github_username:  jekyll
 theme: bulma-clean-theme
 plugins:
   - jekyll-feed
+
+fixed_navbar: top
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      hero_image: "/assets/tec-bg.jpg"
+      hero_height: ""
