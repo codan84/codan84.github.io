@@ -218,7 +218,7 @@ title: Orderly - Complete Restaurant Solution
                     </div>
                 </div>
                 
-                <a href="/contact" class="bg-primary text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-primary-dark transition-colors duration-200 btn-hover-scale inline-block w-full">
+                <a href="mailto:dan@gabslabs.co.uk?subject=Orderly Trial" class="bg-primary text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-primary-dark transition-colors duration-200 btn-hover-scale inline-block w-full">
                     Start Your Free Trial
                 </a>
             </div>
@@ -238,10 +238,10 @@ title: Orderly - Complete Restaurant Solution
             Join restaurants who are already saving money and building stronger customer relationships with Orderly.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="/contact" class="bg-white text-primary px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors duration-200 btn-hover-scale">
+            <a href="mailto:dan@gabslabs.co.uk?subject=Orderly Trial" class="bg-white text-primary px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors duration-200 btn-hover-scale">
                 Start Free Trial
             </a>
-            <a href="mailto:hello@gabslabs.com" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-primary transition-colors duration-200 btn-hover-scale">
+            <a href="mailto:dan@gabslabs.co.uk?subject=Orderly Enquiry" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-primary transition-colors duration-200 btn-hover-scale">
                 Ask Questions
             </a>
         </div>

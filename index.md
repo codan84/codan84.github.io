@@ -26,7 +26,7 @@ title: Home
             <a href="/orderly" class="bg-white text-gray-800 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors duration-200 btn-hover-scale">
                 See Our Solution
             </a>
-            <a href="/contact" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-gray-800 transition-colors duration-200 btn-hover-scale">
+            <a href="mailto:dan@gabslabs.co.uk" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-gray-800 transition-colors duration-200 btn-hover-scale">
                 Get Started
             </a>
         </div>
@@ -96,7 +96,7 @@ title: Home
         <p class="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
             Join small businesses who have already started serving their customers better with our affordable solutions.
         </p>
-        <a href="/contact" class="bg-primary text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-primary-dark transition-colors duration-200 btn-hover-scale inline-block">
+        <a href="mailto:dan@gabslabs.co.uk" class="bg-primary text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-primary-dark transition-colors duration-200 btn-hover-scale inline-block">
             Contact Us Today
         </a>
     </div>
