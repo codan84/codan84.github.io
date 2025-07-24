@@ -1,7 +1,0 @@
-- name: Products
-  link: /products
-  dropdown:
-    - name: Orderly
-    - link: /products/orderly
-- name: About
-  link: /about
