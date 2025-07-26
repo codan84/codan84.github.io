@@ -180,7 +180,7 @@ title: Orderly - Complete Restaurant Solution
             
             <div class="bg-white text-gray-800 rounded-xl shadow-2xl p-8 md:p-12 max-w-lg mx-auto">
                 <div class="text-center mb-8">
-                    <div class="text-primary text-6xl font-bold mb-2">£XX</div>
+                    <div class="text-primary text-6xl font-bold mb-2">£50</div>
                     <div class="text-gray-600 text-lg">per month</div>
                     <div class="text-sm text-gray-500 mt-2">Flat fee - no commissions</div>
                 </div>
